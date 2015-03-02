@@ -1,0 +1,1 @@
+window.veryImportantValue = 'Hello there'
